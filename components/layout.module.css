@@ -1,0 +1,46 @@
+.logo {
+    font-size: 2rem;
+    text-transform: uppercase;
+    justify-content: center;
+    letter-spacing: 2px;
+    display: flex;
+}
+
+.logo h2 {
+    margin: 0;
+}
+
+.logo span {
+    padding-left: 8px;
+    color: red;
+}
+
+.nav {
+    list-style: none;
+    text-align: center;
+    display: block;
+    margin: 0;
+    padding: 0;
+    font-size: 1.1rem;
+}
+
+.nav li {
+    display: inline;
+    margin: 0 10px;
+    color: rgb(52, 114, 207);
+}
+
+.nav li :hover {
+    color: aqua;
+}
+
+.home {
+    color: red;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-top: 10rem;
+}
+
+.link{
+    color: rgb(52, 114, 207);
+}
