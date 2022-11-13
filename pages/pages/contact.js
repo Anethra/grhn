@@ -1,5 +1,6 @@
-import Layout, {mail, github} from '../../components/layout'
+import Layout from '../../components/layout'
 import Styles from '../../styles/home.module.css'
+import {mail, github} from '../../components/constants'
 
 
 export default function Contact() {

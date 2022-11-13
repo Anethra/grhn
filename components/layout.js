@@ -5,8 +5,6 @@ import homeStyles from '../styles/home.module.css'
 
 const logo = 'Coder'
 const name = 'grhn'
-export const mail = 'grhnozturk@gmail.com'
-export const github = 'https://github.com/Anethra'
 
 export default function Layout ({ children }) {
     return (
